@@ -3,6 +3,9 @@ package org.engripaye.config;
 import org.engripaye.dto.TransactionDTO;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
+import org.springframework.kafka.core.ProducerFactory;
+
+import java.util.Map;
 
 @Configuration
 public class KafkaProducerConfig {

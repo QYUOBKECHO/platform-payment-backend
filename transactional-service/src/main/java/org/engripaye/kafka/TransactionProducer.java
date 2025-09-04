@@ -2,6 +2,7 @@ package org.engripaye.kafka;
 
 import lombok.AllArgsConstructor;
 import org.engripaye.dto.TransactionDTO;
+import org.springframework.kafka.core.KafkaTemplate;
 import org.springframework.stereotype.Service;
 
 @Service
