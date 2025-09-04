@@ -1,5 +1,6 @@
 package org.engripaye.settlementservice.feign;
 import org.engripaye.settlementservice.dto.TransactionDTO;
+import org.springframework.cloud.openfeign.FeignClient;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 

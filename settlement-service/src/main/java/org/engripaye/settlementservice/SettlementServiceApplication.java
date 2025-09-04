@@ -2,9 +2,9 @@ package org.engripaye.settlementservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.cloud.openfeign.EnableFeignClients;
 
 @SpringBootApplication
-@EnableFeignClients(basePackages = "com.payment.settlement.feign")
 public class SettlementServiceApplication {
 
     public static void main(String[] args) {
